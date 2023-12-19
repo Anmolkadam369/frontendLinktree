@@ -6,7 +6,7 @@ import SignUpPage from "./Components/SignUpPage";
 import AboutYou from './Components/AboutYou';
 import Verification from './Components/Verification';
 import CheckValid from './Components/CheckValid';
-import DashBoard from './Components/Dashboard';
+import DashBoard from './Components/DashBoard';
 import LoginPage from './Components/LoginPage';
 
 const App = () => {
